@@ -1,7 +1,7 @@
 package com.blogspot.droidcrib.patterntutorial.creational.builder;
 
 /**
- * Created by BulanovA on 31.01.2018.
+ * Created  on 31.01.2018.
  */
 
 public class AccountBuilderClassic {
